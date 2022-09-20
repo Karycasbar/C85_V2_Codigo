@@ -88,7 +88,7 @@ async fetchUser() {
       profile_image: image
     });
   }
-render
+
 --------------------------------------------------------------------------------
 
 <View style={styles.appTitle}>
